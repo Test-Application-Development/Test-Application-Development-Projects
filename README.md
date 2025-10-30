@@ -3,7 +3,7 @@
 
 # Test Application Development
 
-> A projects by Budi Setiawan showcasing software tools for testing and validation.
+> A projects by Budi Setiawan showcasing software tools for testing and validation using .NET C#, WPF, WindForm, NI TestStand, LabView, and Python.
 
 ## 🧾 Overview
 
