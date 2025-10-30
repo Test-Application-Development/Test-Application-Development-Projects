@@ -7,7 +7,7 @@
 
 ## 🧾 Overview
 
-This project,  **“Test Application Development”**, is part of a broader portfolio of automation, embedded systems, full-stack web, and test tools by Budi Setiawan. ([projectsbdsetiawan.com][1])
+This project,  **“Test Application Development”**, is part of a broader portfolio of automation, embedded systems, full-stack web, and test tools by Budi Setiawan. ([projectsbdsetiawan.com](https://projectsbdsetiawan.com/))
 The purpose of the application is to provide a structured, reliable environment for creating, executing and managing tests—whether functional tests, automated integration tests, or system-level validation tests.
 
 ## 🔧 Key Features
@@ -24,7 +24,7 @@ Based on the portfolio context, the application likely includes (or should inclu
 
 ## 🧱 Tech Stack
 
-While the portfolio page doesn’t provide full details of this particular project, given the author’s expertise listed as: “AI • Machine Learning • Computer Vision • Full-Stack Web • Automation • PLC • TestStand • LabVIEW” ([projectsbdsetiawan.com][1])
+While the portfolio page doesn’t provide full details of this particular project, given the author’s expertise listed as: “AI • Machine Learning • Computer Vision • Full-Stack Web • Automation • PLC • TestStand • LabVIEW” ([projectsbdsetiawan.com](https://projectsbdsetiawan.com/))
 We can assume the stack may include:
 
 * Frontend: WPF, WindForm, JavaScript (and related frameworks, e.g., React, Angular, Vue), HTML, CSS.
