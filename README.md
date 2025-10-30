@@ -27,7 +27,7 @@ Based on the portfolio context, the application likely includes (or should inclu
 While the portfolio page doesn’t provide full details of this particular project, given the author’s expertise listed as: “AI • Machine Learning • Computer Vision • Full-Stack Web • Automation • PLC • TestStand • LabVIEW” ([projectsbdsetiawan.com][1])
 We can assume the stack may include:
 
-* Frontend: JavaScript (and related frameworks, e.g., React, Angular, Vue), HTML, CSS.
+* Frontend: WPF, WindForm, JavaScript (and related frameworks, e.g., React, Angular, Vue), HTML, CSS.
 * Backend: .NET / C#, or other full-stack web technologies (since other portfolio items mention ASP.NET [C#] Projects).
 * Data storage: SQL-based database (e.g., SQL Server, MySQL) or NoSQL depending on architecture.
 * Integration layer: possibly using hardware interfaces (PLC, test instrumentation), maybe via LabVIEW or TestStand.
